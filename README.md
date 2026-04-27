@@ -10,35 +10,33 @@ through classification report to ensure dependable and interpretable outcomes.
 • Age group between 20-30 are most effected
 
 ## **Objectives**
-Build a reliable predictive model for PCOS detection
-Identify key factors influencing the condition
-Analyze patterns in clinical and demographic data
+• Build a reliable predictive model for PCOS detection
+• Identify key factors influencing the condition
+• Analyze patterns in clinical and demographic data
 
 ## **Methodology**
 Cross-Industry Standard Process for Data Mining
 
 ## **Tools & Technologies**
-Python
-Jupyter Notebook
-Statistical testing (Chi-square analysis)
+• Jupyter Notebook
 
 ## **Dataset**
-Source: Kaggle
-Size: 541 patient records
-Features include: Clinical parameters, hormonal indicators, lifestyle attributesd emographic information
+• Source: Kaggle
+• Size: 541 patient records
+• Features include: Clinical parameters, hormonal indicators, lifestyle attributesd emographic information
 
 ## **Key Features**
-Logistic Regression-based classification model
-End-to-end data pipeline (preprocessing → modeling → evaluation)
-Statistical validation using Chi-square test
-Clear visualizations for better interpretability
+• Logistic Regression-based classification model
+• End-to-end data pipeline (preprocessing → modeling → evaluation)
+• Statistical validation using Chi-square test
+• Clear visualizations for better interpretability
 
 ## **Results**
 Successfully classified individuals into:
-PCOS (Diseased)
-Non-PCOS (Not Diseased)
-Achieved reliable performance using standard evaluation metrics
-Most affected age group: **20-30 with a disease rate of 40.64%**
+• PCOS (Diseased)
+• Non-PCOS (Not Diseased)
+• Achieved reliable performance using standard evaluation metrics
+• Most affected age group: **20-30 with a disease rate of 40.64%**
 
 ## **Web App**
 https://pcosprediction.pythonanywhere.com
