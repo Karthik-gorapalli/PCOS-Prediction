@@ -7,7 +7,7 @@ through classification report to ensure dependable and interpretable outcomes.
 
 • Deployed the model as a Django-based web app, enabling real-time predictions for end users.
 
-• Age group between 20-30 are most effected
+• Age group between 20-30 are most effected.
 
 ## **Objectives**
 • Build a reliable predictive model for PCOS detection
