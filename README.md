@@ -1,8 +1,8 @@
 # **PCOS Prediction Using Logistic Regression**
 ## **Overview**
-• In this project, I worked with a dataset of **541 patient** records on PCOS to predict the probability that an individual will be affected by the condition based on various medical and   lifestyle factors. Using Python and Logistic Regression, I developed a predictive model that classifies individuals as either "diseased" or "not diseased."
+• In this project, I worked with a dataset of **541 patient** records on PCOS to predict the probability that an individual will be affected by the condition based on various medical and   lifestyle factors. Using Python and **Logistic Regression**, I developed a predictive model that classifies individuals as either **"diseased" or "not diseased."**
 
-• Achieved 82 percent accuracy (Precision: 0.88/0.77, Recall: 0.75/0.89) in PCOS prediction model, validated
+• Achieved **82 percent accuracy (Precision: 0.88/0.77, Recall: 0.75/0.89)** in PCOS prediction model, validated
 through classification report to ensure dependable and interpretable outcomes.
 
 • Deployed the model as a Django-based web app, enabling real-time predictions for end users.
@@ -20,9 +20,9 @@ Cross-Industry Standard Process for Data Mining
 ## **Tools & Technologies**
 Python
 Jupyter Notebook
-SPSS – Statistical testing (Chi-square analysis)
+Statistical testing (Chi-square analysis)
 
-## ** Dataset**
+## **Dataset**
 Source: Kaggle
 Size: 541 patient records
 Features include: Clinical parameters, hormonal indicators, lifestyle attributesd emographic information
