@@ -24,20 +24,28 @@ Cross-Industry Standard Process for Data Mining
 
 ## **Dataset**
 • Source: Kaggle
+
 • Size: 541 patient records
+
 • Features include: Clinical parameters, hormonal indicators, lifestyle attributesd emographic information
 
 ## **Key Features**
 • Logistic Regression-based classification model
+
 • End-to-end data pipeline (preprocessing → modeling → evaluation)
+
 • Statistical validation using Chi-square test
+
 • Clear visualizations for better interpretability
 
 ## **Results**
 Successfully classified individuals into:
 • PCOS (Diseased)
+
 • Non-PCOS (Not Diseased)
+
 • Achieved reliable performance using standard evaluation metrics
+
 • Most affected age group: **20-30 with a disease rate of 40.64%**
 
 ## **Web App**
