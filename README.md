@@ -1,22 +1,49 @@
-Developed a predictive model to determine whether an individual is affected by PCOS (Polycystic Ovary Syndrome) based on a given dataset. Utilized Python and implemented Logistic Regression as the machine learning algorithm. Leveraged libraries such as Pandas for data preprocessing, Seaborn and Matplotlib for data visualization, and Scikit-learn for model building and evaluation. The project was executed in Jupyter Notebook, focusing on feature selection, model accuracy, and interpretability to provide meaningful insights into the dataset.
+# **PCOS Prediction Using Logistic Regression**
+## **Overview**
+• In this project, I worked with a dataset of **541 patient** records on PCOS to predict the probability that an individual will be affected by the condition based on various medical and   lifestyle factors. Using Python and Logistic Regression, I developed a predictive model that classifies individuals as either "diseased" or "not diseased."
 
-📁 Project Description: PCOS Prediction Using Logistic Regression
-This repository contains the code and documentation for the PCOS Prediction Project, developed as part of an academic research study during my M.Sc. in Statistics at Andhra University. The main goal of this project is to predict whether a woman has Polycystic Ovary Syndrome (PCOS) using clinical and diagnostic features.
+• Achieved 82 percent accuracy (Precision: 0.88/0.77, Recall: 0.75/0.89) in PCOS prediction model, validated
+through classification report to ensure dependable and interpretable outcomes.
 
-🔍 Key Features:
-Logistic Regression model built in Python using scikit-learn
+• Deployed the model as a Django-based web app, enabling real-time predictions for end users.
 
-Data preprocessing and visualization using Pandas, Seaborn, and Matplotlib
+• Age group between 20-30 are most effected
 
-Feature analysis to understand influential variables
+## **Objectives**
+Build a reliable predictive model for PCOS detection
+Identify key factors influencing the condition
+Analyze patterns in clinical and demographic data
 
-Chi-square test (done in SPSS) to identify the most affected age group
+## **Methodology**
+Cross-Industry Standard Process for Data Mining
 
-Model evaluation using accuracy, confusion matrix, and ROC curve
+## **Tools & Technologies**
+Python
+Jupyter Notebook
+SPSS – Statistical testing (Chi-square analysis)
 
-🧪 Dataset:
-The dataset was sourced from Kaggle. 
+## ** Dataset**
+Source: Kaggle
+Size: 541 patient records
+Features include: Clinical parameters, hormonal indicators, lifestyle attributesd emographic information
 
-Includes clinical, hormonal, and demographic features of women
+## **Key Features**
+Logistic Regression-based classification model
+End-to-end data pipeline (preprocessing → modeling → evaluation)
+Statistical validation using Chi-square test
+Clear visualizations for better interpretability
 
+## **Results**
+Successfully classified individuals into:
+PCOS (Diseased)
+Non-PCOS (Not Diseased)
+Achieved reliable performance using standard evaluation metrics
+Most affected age group: **20-30 with a disease rate of 40.64%**
+
+## **Web App**
+https://pcosprediction.pythonanywhere.com
+
+## **Academic Context**
+
+This project was developed as part of my M.Sc. in Statistics at Andhra University, focusing on applying statistical and machine learning techniques to real-world healthcare data.
 
