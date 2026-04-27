@@ -22,6 +22,10 @@ Cross-Industry Standard Process for Data Mining
 ## **Tools & Technologies**
 • Jupyter Notebook
 
+• Pandas, Seaborn, Scikit-learn
+
+• Logistic Regression
+
 ## **Dataset**
 • Source: Kaggle
 
