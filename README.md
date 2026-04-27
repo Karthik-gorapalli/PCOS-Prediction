@@ -40,6 +40,7 @@ Cross-Industry Standard Process for Data Mining
 
 ## **Results**
 Successfully classified individuals into:
+
 • PCOS (Diseased)
 
 • Non-PCOS (Not Diseased)
