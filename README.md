@@ -11,7 +11,9 @@ through classification report to ensure dependable and interpretable outcomes.
 
 ## **Objectives**
 • Build a reliable predictive model for PCOS detection
+
 • Identify key factors influencing the condition
+
 • Analyze patterns in clinical and demographic data
 
 ## **Methodology**
